@@ -1,0 +1,89 @@
+﻿3
+Language=no
+Country=
+Localname=Norsk
+Englishname=Norwegian
+
+L_AND=OG
+L_OR=ELLER
+L_NOT=IKKE
+L_NEAR=NÆR
+
+L_SEARCH=Søk
+L_STOP=Stopp
+L_HELP=Hjelp
+
+L_READING=Lese\ 
+L_HELP_UNREADABLE=Databasefilen det søkes etter kan ikke leses.
+
+L_DESCRIPTION=Beskrivelse\: 
+L_CONTAINS=Innhold\: 
+L_PAGES_AND=\ sider og\ 
+L_WORDS=\ ord.
+L_CREATED=Laget\: 
+L_FILE=Fil\: 
+L_LANGUAGE=Språk\:
+L_USER_LOCALE=lokal bruker\: 
+L_SITE=Side\: 
+
+L_ENTER_TEXT=Sett in søketeksten i boksen over og klikk på Søk.
+L_HELP_SEL_PAGE=For å se en side i resultat-listen, klikk på tittelen.
+L_HELP_TOP=<strong>find</strong>in<strong>site-cd</strong> finner sider som inneholder alle ordene i din søketekst hvor som helst på siden.
+L_HELP_MATCH=Bruk enkel anførseltegn <B>'&nbsp;'</B> for å finne make store bokstaver.
+L_HELP_ADJACENT=Bruk doble anførselstegn <B>"&nbsp;"</B> for å finne tilgrensende ord.
+L_HELP_WILD=Bruk <B>?</B> for å tilpasse eksakt en karakter og <B>*</B> for å tilpasse ethvert nummer av karakterer.
+L_HELP_LOGICAL_OPERATORS1=Bruk <B>
+L_HELP_LOGICAL_OPERATORS2=</B> og paranteser <B>(</B> <B>)</B> for å gjøre logiske søk.
+
+L_NO_SEARCH=Ingenting å søke etter.
+L_WORDS_NOT_FOUND=Disse ordene ble ikke funnet på noen sider\:
+L_ABORTED=Søket avbrudt.
+
+L_PAGE=\ side
+L_PAGES=\ sider
+L_PRE_FOUND=
+L_FOUND=\ funnet
+L_FOUND_UNORDERED=Disse ordene ble funnet, men ikke i denne rekkefølgen:&nbsp;
+L_STOP_WORDS=Ignorerte vanlige ord\:
+
+L_SHOWING=Vise
+L_POST_SHOWING=\ wird angezeigt
+L_SEARCH_WAIT=Søke databasen holder på å laste opp ...vennligst prøv igjen om ikke så lenge
+L_SEARCH_TIMEDOUT=Søketiden er gått ut.
+
+L_NO_CONTIG=Beklager,tilgrensende søke ord er ikke støttet av denne søke-databasen.
+L_2DQ_NEEDED=Beklager, din søke tekst passer ikke til doble anførselstegn.
+L_2SQ_NEEDED=Beklager, din søke tekst passer ikke til enkle anførselstegn.
+L_NO_EXACT=Beklager, denne søke databasen lagrer ikke forskjellige bokstav kasus.
+L_MISMATCHED_PARENTHESES=Beklager, din søke tekst passej ikke til paranteser ( og )
+L_BAD_BRACKETS=Parenteser er ikk tillatt imellom "doble anførselstegn"
+L_INCORRECT_PLACE=\ på feil sted
+L_BAD_WILD=* og ? er kke tillatt imellom 'enkle anførselstegn'
+L_BAD_ASTERISK_DQ=* ikke tillatt imellom"doble anførselstegn"
+
+L_RULESET=Regler\:
+L_SUBSETS=Symbol
+L_SELECT_SUBSETS=Velg symboler for å inkludere i søk
+L_DATABASES=databaser
+L_INDEX=Indeks\:
+L_INDEXES=Indekser
+L_SELECT_INDEX=Velg indeks\:
+L_LANGUAGES=Språk
+L_NO_SUBSETS_SELECTED=Ingen symboler er valgt.
+L_POST_READING=\ wird gelesen\:
+
+L_SELECT_LANG=Velg språk\:
+
+#FindInSite strings
+L_SEARCH_ENGINE=søke maskin 
+L_HELP_TOP_SERVER=<strong>find</strong>in<strong>site-js</strong> finner sider som inneholder all ordene i din søketekst hvorsomhelst på siden.
+L_SEARCH_FOR=Søke etter\: 
+L_SEARCH_RESULTS_FOR=Søke resultat for\: 
+L_PREVIOUS=Foregående
+L_NEXT=Neste
+
+L_FIRST=Først
+L_LAST=Siste
+L_OF=av
+L_RESULTS=Resultater
+L_SECONDS=sekunder

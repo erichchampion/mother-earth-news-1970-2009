@@ -1,0 +1,82 @@
+3
+Language=nl
+Country=
+Localname=Nederlands
+Englishname=Dutch
+
+L_AND=EN
+L_OR=OF
+L_NOT=NIET
+L_NEAR=BIJ
+
+L_SEARCH=Zoek
+L_STOP=Stop
+L_HELP=Help
+
+L_READING=Leest
+L_HELP_UNREADABLE=De bestanden van de zoekmachine kunnen niet gelezen worden.
+
+L_SEARCH_DATABASE=Zoekmachine\: 
+L_DESCRIPTION=Omschrijving\: 
+L_CONTAINS=Bevat\:
+L_PAGES_AND=\ pagina\'s en\ 
+L_WORDS=\ woorden.
+L_CREATED=Aangemaakt\: 
+L_FILE=Bestand\: 
+L_LANGUAGE=Taal\:
+L_USER_LOCALE=Invoer\: 
+L_SITE=Site\: 
+
+L_ENTER_TEXT=Vul de zoektekst in het veld hierboven in en klik op Zoek.
+L_HELP_SEL_PAGE=Klik op de titel van een pagina in de resultaten lijst om deze te bekijken.
+L_HELP_TOP=<B>FindinSite-CD</B> zoekt naar pagina\'s die alle opgegeven woorden ergens in de tekst bevatten.
+L_HELP_MATCH=Gebruik enkele aanhalingstekens <B>( ' ')</B> om overeenkomstige hoofdletters te vinden.
+L_HELP_ADJACENT=Gebruik dubbele aanhalingstekens <B>(" ")</B> om aaneengesloten woorden te vinden.
+L_HELP_WILD=Gebruik <B>?</B> en <B>*</B> als wild-cards in de zoektekst.
+L_HELP_LOGICAL_OPERATORS1=Gebruik <B>
+L_HELP_LOGICAL_OPERATORS2=</B> en haakjes <B>( )</B> om logische zoekopdrachten samen te stellen.
+
+L_NO_SEARCH=Niets om naar te zoeken
+L_WORDS_NOT_FOUND=De woorden werden in geen enkele pagina gevonden\:
+L_ABORTED=Zoeken afgebroken
+
+L_PAGE=\ pagina
+L_PAGES=\ pagina\'s
+L_PRE_FOUND=
+L_FOUND=\ gevonden
+L_FOUND_UNORDERED=De woorden werden gevonden, maar niet in deze volgorde\:&nbsp;
+
+L_SHOWING=Het bestand
+L_POST_SHOWING=\ wordt getoond
+
+L_NO_CONTIG=Sorry, zoeken naar op elkaar volgende woorden wordt niet door deze zoekmachine ondersteund
+L_2DQ_NEEDED=Sorry, uw zoektekst bevat een foutief aantal dubbele aanhalingstekens
+L_2SQ_NEEDED=Sorry, uw zoektekst bevat een foutief aantal enkele aanhalingstekens
+L_NO_EXACT=Sorry, deze zoekmachine maakt geen verschil tussen hoofdletters en kleine letters
+L_MISMATCHED_PARENTHESES=Sorry, uw zoektekst bevat een foutief aantal haakjes
+L_BAD_BRACKETS=haakjes mogen niet gebruikt worden binnen dubbele aanhalingstekens
+L_INCORRECT_PLACE=\ staat op de verkeerde plaats
+L_BAD_WILD=* en ? mogen niet gebruikt worden binnen enkele aanhalingstekens
+
+L_RULESET=Regels\:
+L_SUBSETS=Subsets
+L_SELECT_SUBSETS=Kies de subsets die in de zoekopdracht gebruikt moeten worden:
+L_DATABASES=databases
+L_INDEX=Index\:
+L_INDEXES=Indexen
+L_SELECT_INDEX=Selecteer Index\:
+L_LANGUAGES=Talen
+L_NO_SUBSETS_SELECTED=Er zijn geen subsets geselecteerd.
+
+L_SELECT_LANG=Selecteer taal\:
+
+#FindinSite strings
+L_APPNAME_SERVER=FindinSite-JS zoekmachine
+L_HELP_TOP_SERVER=<B>FindinSite-JS</B> zoekt naar pagina's die alle opgegeven woorden ergens in de tekst bevatten.
+L_SEARCH_FOR=Zoeken naar\: 
+L_SEARCH_RESULTS_FOR=Zoekresultaat voor\: 
+L_PREVIOUS=Vorige
+L_NEXT=Volgende
+
+L_SERVER_ERROR=FindinSite-JS Fout
+L_SERVER_RESULT=FindinSite-JS Resultaten

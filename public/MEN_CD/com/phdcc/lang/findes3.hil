@@ -1,0 +1,84 @@
+3
+Language=es
+Country=
+Localname=Espa\u00F1ol
+Englishname=Spanish
+
+L_AND=Y
+L_OR=O
+L_NOT=NO
+L_NEAR=NEAR
+
+L_SEARCH=Buscar
+L_STOP=Parar
+L_HELP=Ayuda
+
+L_READING=Lectura 
+L_HELP_UNREADABLE=No se puede leer la base de datos especificada.
+
+L_SEARCH_DATABASE=Idioma\:
+L_DESCRIPTION=Base de datos\: 
+L_CONTAINS=Contiene\: 
+L_PAGES_AND=\ p\u00E1ginas y\ 
+L_WORDS=\ palabras.
+L_CREATED=Creado\: 
+L_FILE=Archivo\: 
+L_LANGUAGE=Lengua\:
+L_USER_LOCALE=Usuario\:
+L_SITE=Site\:
+
+L_ENTER_TEXT=Escribe la(s) palabra(s) a buscar en el recuadro de arriba, cuida la ortograf\u00EDa.
+L_HELP_SEL_PAGE=Despu\u00E9s seleccione una p\u00E1gina de la lista de resultados.
+L_HELP_TOP=Se mostrar\u00E1n las p\u00E1ginas en las que aparezcan las palabras a buscar.
+L_HELP_MATCH=Utiliza ap\u00F3strofe para considerar may\u00FAsculas y min\u00FAsculas.
+L_HELP_ADJACENT=Utiliza comillas para buscar una frase.
+L_HELP_WILD=Utiliza * o ? como comodines [?\=una letra ] [*\=cualquier n\u00FAmero de letras]
+L_HELP_LOGICAL_OPERATORS1=Utiliza <B>
+L_HELP_LOGICAL_OPERATORS2=</B> y <B>(</B> <B>)</B>.
+
+L_NO_SEARCH=Nada por buscar
+L_WORDS_NOT_FOUND=Estas palabras no se encuentraron en ninguna p\u00E1gina\:
+L_ABORTED=B\u00FAsqueda cancelada
+
+L_PAGE=\ p\u00E1gina
+L_PAGES=\ p\u00E1ginas
+L_PRE_FOUND=
+L_FOUND=\ encontrada
+L_FOUND_PLURAL=\ encontradas
+L_FOUND_UNORDERED=Palabras encontradas en orden arbitrario
+
+L_SHOWING=Mostrando
+L_POST_SHOWING=
+
+L_NO_CONTIG=Lo sentimos, esta base de datos no soporta b\u00FAsquedas por posici\u00F3n exacta
+L_2DQ_NEEDED=Double-cite doit \u00EAtre \u00E0 d\u00E9but et fin
+L_2SQ_NEEDED=Seul-cite doit \u00EAtre \u00E0 d\u00E9but et fin
+L_NO_EXACT=Perd\u00F3n, esta base de datos no hace diferencia entre may\u00FAsculas y min\u00FAsculas
+L_MISMATCHED_PARENTHESES=Perd\u00F3n, su b\u00FAsqueda de testo tiene par\u00E9ntesis desenparejados (y)
+L_BAD_BRACKETS=No se permiten par\u00E9ntesis entre "comillas dobles"
+L_INCORRECT_PLACE=\ in sitio incorrecto
+L_BAD_WILD=No se permite * y ? entre 'comillas simples'
+L_BAD_ASTERISK_DQ=No se permite * entre "comillas dobles"
+
+L_RULESET=Reglas\:
+L_SUBSETS=Subconjuntos
+L_SELECT_SUBSETS=Elija los subconjuntos para incluir en b\u00FAsqueda:
+L_DATABASES=bases de datos
+L_INDEX=\u00CDndice\:
+L_INDEXES=\u00CDndices
+L_SELECT_INDEX=Seleccione el \u00EDndice:
+L_LANGUAGES=Lenguajes
+L_NO_SUBSETS_SELECTED=No se selecciona ningunos subconjuntos.
+
+L_SELECT_LANG=Escoger lengua\:
+
+#FindinSite strings
+L_APPNAME_SERVER=Herramienta de la b\u00FAsqueda del sitio de FindinSite-JS
+L_HELP_TOP_SERVER=Se mostrar\u00E1n las p\u00E1ginas en las que aparezcan las palabras a buscar.
+L_SEARCH_FOR=B\u00FAsqueda para\:
+L_SEARCH_RESULTS_FOR=Lista de resultados por\: 
+L_PREVIOUS=Previo
+L_NEXT=Pr\u00F3ximo
+
+L_PRE_HIGHLIGHTING=El destacar de la palabra\:
+L_POST_HIGHLIGHTING=Requiere un browser Java-permitido.

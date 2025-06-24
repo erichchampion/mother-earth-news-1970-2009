@@ -1,0 +1,69 @@
+3
+Language=hr
+Country=
+Localname=Hrvatski
+Englishname=Croatian
+
+L_AND=AND
+L_OR=OR
+L_NOT=NOT
+L_NEAR=NEAR
+
+L_SEARCH=Tra\u017Ei
+L_STOP=Prekini
+L_HELP=Pomo\u0107
+
+L_READING=Otvaram 
+L_HELP_UNREADABLE=Datoteke baze podataka ne mogu se pro\u010Ditati.
+
+L_SEARCH_DATABASE=Baza podataka\:
+L_DESCRIPTION=Opis\: 
+L_CONTAINS=Sadr\u017Ei\: 
+L_PAGES_AND=\ stranica i\ 
+L_WORDS=\ rije\u010Di.
+L_CREATED=Datum kreiranja\: 
+L_FILE=Datoteka\: 
+L_LANGUAGE=Jezik\:
+L_USER_LOCALE=Oznaka dr\u017Eave\: 
+L_SITE=Lokacija\: 
+
+L_ENTER_TEXT=U okvir upi\u0161ite tra\u017Eeni tekst i kliknite na "Tra\u017Ei".
+L_HELP_SEL_PAGE=Za otvaranje stranice u popisu rezultata kliknite na naslov stranice.
+L_HELP_TOP=Ako unesete vi\u0161e rije\u010Di, <B>FindinSite-CD</B> \u0107e prona\u0107i samo one stranice koje sadr\u017Ee sve rije\u010Di.
+L_HELP_MATCH=\u017Delite li pretra\u017Eivati uz razlikovanje malih i velikih slova, rije\u010D ili izraz stavite u jednostruke navodnike <B>' '</B>.
+L_HELP_ADJACENT=\u017Delite li prona\u0107i susjedne rije\u010Di, odnosno to\u010Dni izraz, stavite ga u dvostruke navodnike <B>" "</B>.
+L_HELP_WILD=Znak <B>?</B> zamjenjuje bilo koji jedan znak, a <B>*</B> bilo koji niz znakova.
+L_HELP_LOGICAL_OPERATORS1=Za zadavanje logi\u010Dkih upita koristite <B>
+L_HELP_LOGICAL_OPERATORS2=</B> i zagrade <B>(</B> <B>)</B>.
+
+L_NO_SEARCH=Niste upisali rije\u010D ili izraz
+L_WORDS_NOT_FOUND=Ove rije\u010Di nisu prona\u0111ene ni na jednoj stranici\:
+L_ABORTED=Pretra\u017Eivanje je prekinuto
+
+L_PAGE=
+L_PAGES=
+L_PRE_FOUND=Broj prona\u0111enih stranica\: 
+L_FOUND=
+L_FOUND_UNORDERED=Ove rije\u010Di su prona\u0111ene, ali ne tra\u017Eenim redoslijedom\:&nbsp;
+
+L_SHOWING=Prikazujem
+L_POST_SHOWING=
+
+L_NO_CONTIG=Ova baza podataka ne podr\u017Eava tra\u017Eenje susjednih rije\u010Di\!
+L_2DQ_NEEDED=Navodnici moraju biti otvoreni i zatvoreni\!
+L_2SQ_NEEDED=Jednostruki navodnici moraju biti otvoreni i zatvoreni\!
+L_NO_EXACT=Na \u017Ealost, ovu bazu podataka ne mo\u017Eete pretra\u017Eivati uz razlikovanje velikih i malih slova\!
+L_MISMATCHED_PARENTHESES=Zagrade moraju biti otvorene i zatvorene\!
+L_BAD_BRACKETS=Unutar dvostrukih navodnika ne mogu se koristiti zagrade\!
+L_INCORRECT_PLACE=\ na neispravnom mjestu
+L_BAD_WILD=* i ? se ne mogu koristiti unutar jednostrukih navodnika\!
+
+L_SELECT_LANG=Odaberite jezik\:
+
+#FindinSite strings
+L_HELP_TOP_SERVER=Ako unesete vi\u0161e rije\u010Di, <B>FindinSite-JS</B> \u0107e prona\u0107i samo one stranice koje sadr\u017Ee sve rije\u010Di.
+L_SEARCH_FOR=Search for\: 
+L_SEARCH_RESULTS_FOR=Search results for\: 
+L_PREVIOUS=Previous
+L_NEXT=Next
+

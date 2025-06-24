@@ -1,0 +1,100 @@
+﻿3
+Language=ar
+Country=
+Localname=العربية
+Englishname=Arabic
+
+L_AND=و
+L_OR=أو
+L_NOT=ليس
+L_NEAR=يقرب
+
+L_SEARCH=إبحث
+L_STOP=قف
+L_HELP=مساعدة
+
+L_READING=قراءة\ 
+L_POST_READING=
+L_HELP_UNREADABLE= لا يمكن قراءة ملفات قاعدة البيانات الخاصة بالبحث.
+
+L_DESCRIPTION=وصف:\ 
+L_CONTAINS=يحتوى على:\ 
+L_PAGES_AND=\ صفحة و\ 
+L_WORDS=\ كلمة.
+L_CREATED=خلقت:\ 
+L_FILE=ملف:\ 
+L_LANGUAGE=لغة:\ 
+L_USER_LOCALE=لغة المستخدم:\ 
+L_SITE=الموقع:
+
+L_ENTER_TEXT=قم بكتابة مفردات البحث بالخانة بأعلى ثم أنقر زر "إبحث"
+L_HELP_SEL_PAGE=لاستعراض محتوى إحدى الصفحات الموجودة بقائمة البحث، أنقر العنوان
+L_HELP_TOP=<B>FindinSite-CD</B> يجد الصفحات التي تحتوي على جميع كلمات البحث
+L_HELP_MATCH=
+L_HELP_ADJACENT=إستخدم هذه العلامات <B>"&nbsp;"</B> للبحث عن الكلمات المتلاصقة.
+L_HELP_WILD=استخدم  <B>?</B> لتبديل حرف واحد و  <B>*</B> لتبديل أي عدد من الأحرف
+L_HELP_LOGICAL_OPERATORS1= استخدم <B>
+L_HELP_LOGICAL_OPERATORS2= </B> و الأقواس <B>(</B> <B>)</B> لإجراء عمليات البحث المنطقي.
+L_NO_SEARCH=لا يوجد مفردات للبحث
+L_WORDS_NOT_FOUND=هذه المفردات لم يتم العثور عليها في أى من الصفحات:
+L_ABORTED=تم إلغاء البحث
+
+L_PAGE=\ صفحة
+L_PAGES=\ صفحات
+L_PAGES_ZERO=
+L_PRE_FOUND=
+L_FOUND=\ وجدت
+L_FOUND_ZERO=
+L_FOUND_PLURAL=\ وجدت
+L_FOUND_UNORDERED=هذه الكلمات وجدت ولكن ليس بنفس الترتيب:&nbsp;
+
+L_SHOWING=
+L_POST_SHOWING=
+
+L_NO_CONTIG=نأسف لعدم إمكانية البحث عن الكلمات المتلاصقة في قاعدة البيانات هذه
+L_2DQ_NEEDED=
+L_2SQ_NEEDED=
+L_NO_EXACT=
+L_MISMATCHED_PARENTHESES=
+L_BAD_BRACKETS=الأقواس لا تستغمل في إطار هذه العلامات " &nbsp; "
+L_INCORRECT_PLACE= العلامة \ في مكان غير مخصص لها
+L_BAD_WILD=العلامات * و ؟ لا تستعمل في إطار هذه العلامات ' &nbsp; '
+L_BAD_ASTERISK_DQ= العلامة * لا تستغمل في إطار هذه العلامات " &nbsp; "
+
+L_RULESET=قواعد:
+L_SUBSETS=مجموعات
+L_SELECT_SUBSETS=إختر مجموعات للبحث:
+L_DATABASES=قواعد بيانات
+L_INDEX=فهرس:
+L_INDEXES=فهارس
+L_SELECT_INDEX=إختر الفهرس:
+L_LANGUAGES=لغات
+L_NO_SUBSETS_SELECTED=لم يتم اختيار أي مجموعة
+
+L_STOP_WORDS=تم استبعاد الكلمات المتداولة:\ 
+
+L_SELECT_LANG=اختر اللغة:
+
+L_SEARCH_WAIT=يتم تحميل قاعدة البيانات زز نرجو المحاولة في وقت لاحق
+L_SEARCH_TIMEDOUT=البحث استغرق مدة اطول من المتاح
+
+#FindinSite strings
+L_SEARCH_ENGINE=محرك بحث المواقع
+L_HELP_TOP_SERVER=<B>FindinSite</B> يجد الصفحات التي تحتوي على جميع كلمات البحث.
+L_SEARCH_FOR=إبحث عن:\ 
+L_SEARCH_RESULTS_FOR=نتائج البحث لـ:\ 
+L_PREVIOUS=السابق
+L_NEXT=التالي
+L_SERVER_ERROR= خطأ في البحث بـ FindinSite
+L_SERVER_RESULT=نتائج FindinSite
+
+L_RESULTS=النتائج
+L_OF=من
+L_SECONDS=ثوان
+L_FIRST=الأول
+L_LAST=الأخير
+
+L_HTML_TAG=DIR=rtl
+L_BODY_TAG=DIR=rtl
+L_ALIGN_TAG=ALIGN=right
+

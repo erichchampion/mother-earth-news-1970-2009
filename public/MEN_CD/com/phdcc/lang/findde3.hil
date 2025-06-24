@@ -1,0 +1,83 @@
+3
+Language=de
+Country=
+Localname=Deutsch
+Englishname=German
+
+L_AND=UND
+L_OR=ODER
+L_NOT=NICHT
+L_NEAR=NAHE
+
+L_SEARCH=Suchen
+L_STOP=Stop
+L_HELP=Hilfe
+
+L_READING=
+L_HELP_UNREADABLE=Die Datenbank-Dateien konnten nicht gelesen werden.
+
+L_SEARCH_DATABASE=Suchdatenbank\: 
+L_DESCRIPTION=Beschreibung\: 
+L_CONTAINS=enth\u00E4lt\: 
+L_PAGES_AND=\ Seiten und\ 
+L_WORDS=\ W\u00F6rter.
+L_CREATED=Erstellt\: 
+L_FILE=Datei\: 
+L_LANGUAGE=Sprache\:
+L_USER_LOCALE=Benutzer-Locale\: 
+L_SITE=Site\: 
+
+L_ENTER_TEXT=Suchbegriff(e) eingeben und Schaltfl\u00E4che "Suchen" klicken.
+L_HELP_SEL_PAGE=Klicken Sie in der Liste die gew\u00FCnschte Seite an, um sie anzuzeigen.
+L_HELP_TOP=<B>FindinSite-CD</B> findet jede Seite, auf der alle Begriffe in beliebiger Reihenfolge vorkommen.
+L_HELP_MATCH=Verwenden Sie einfache Anf\u00FChrungszeichen ('&nbsp;'), um zwischen Gro\u00DF- und Kleinschreibung zu unterscheiden.
+L_HELP_ADJACENT=Verwenden Sie doppelte Anf\u00FChrungszeichen ("&nbsp;"), um nebeneinander stehende W\u00F6rter zu finden.
+L_HELP_WILD=Joker-Suche\: Ein Fragezeichen (?) steht f\u00FCr einen Buchstaben; ein Stern (*) steht f\u00FCr beliebig viele Buchstaben. 
+L_HELP_LOGICAL_OPERATORS1=Benutzen Sie <B>
+L_HELP_LOGICAL_OPERATORS2=</B> und Klammern <B>(</B> <B>)</B>, um Suchbegriffe logisch zu verkn\u00FCpfen.
+
+L_NO_SEARCH=Bitte Suchbegriff eingeben.
+L_WORDS_NOT_FOUND=Diese Begriffe wurden nicht gefunden\:
+L_ABORTED=Suche abgebrochen.
+
+L_PAGE=\ Seite
+L_PAGES=\ Seiten
+L_PRE_FOUND=
+L_FOUND=\ gefunden
+L_FOUND_UNORDERED=Begriffe gefunden, aber nicht in dieser Reihenfolge.
+
+L_SHOWING=
+L_POST_SHOWING=\ wird angezeigt
+
+L_NO_CONTIG=Suche nach nebeneinander stehenden W\u00F6rtern wird von dieser Datenbank nicht unterst\u00FCtzt.
+L_2DQ_NEEDED=Doppelte Anf\u00FChrungszeichen m\u00FCssen am Anfang und am Ende des Wortes gesetzt werden.
+L_2SQ_NEEDED=Einfache Anf\u00FChrungszeichen m\u00FCssen am Anfang und am Ende des Wortes gesetzt werden.
+L_NO_EXACT=Diese Datenbank speichert Begriffe nur in Gro\u00DF- oder Kleinschreibung.
+L_MISMATCHED_PARENTHESES=Klammern m\u00FCssen paarweise benutzt werden
+L_BAD_BRACKETS=Klammern d\u00FCrfen innerhalb von doppelten "Anf\u00FChrungszeichen" nicht verwendet werden
+L_INCORRECT_PLACE=\ nicht an der richtigen Stelle
+L_BAD_WILD=Stern (*) und Fragezeichen (?) sind innerhalb von einfachen 'Anf\u00FChrungszeichen' nicht erlaubt
+
+L_RULESET=Sprachregeln\:
+L_SUBSETS=Teilmengen
+L_SELECT_SUBSETS=Selektieren Sie die zu durchsuchenden Teilmengen
+L_DATABASES=Datenbanken
+L_INDEX=Index\:
+L_INDEXES=Indexe
+L_SELECT_INDEX=W\u00E4hlen Sie einen Index aus\:
+L_LANGUAGES=Sprachen
+L_NO_SUBSETS_SELECTED=Keine Teilmengen selektiert!
+L_POST_READING=\ wird gelesen\:
+
+L_SELECT_LANG=Bitte Sprache w\u00E4hlen\:
+
+#FindinSite strings
+L_APPNAME_SERVER=FindinSite-JS Internetsuche
+L_HELP_TOP_SERVER=<B>FindinSite-JS</B> findet jede Seite, auf der alle Begriffe in beliebiger Reihenfolge vorkommen.
+L_SEARCH_FOR=Suchen nach\: 
+L_SEARCH_RESULTS_FOR=Suchergebnisse f\u00FCr\: 
+L_PREVIOUS=Vorherige Suchergebnisse
+L_NEXT=Weitere Suchergebnisse
+
+L_PRE_HIGHLIGHTING=Worthervorheben\:
+L_POST_HIGHLIGHTING=Erfordert eine Java-erm\u00F6lichte Datenbanksuchroutine.

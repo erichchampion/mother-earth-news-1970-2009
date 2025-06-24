@@ -1,0 +1,200 @@
+<!-- saved from url=(0030)http://www.motherearthnews.com -->
+<html>
+<head>
+<script language="JavaScript1.2">
+<!--
+top.window.moveTo(0,0);
+if (document.all) {
+top.window.resizeTo(screen.availWidth,screen.availHeight);
+}
+else if (document.layers||document.getElementById) {
+if (top.window.outerHeight<screen.availHeight||top.window.outerWidth<screen.availWidth){
+top.window.outerHeight = screen.availHeight;
+top.window.outerWidth = screen.availWidth;
+}
+}
+//-->
+</script>
+<style>
+<!--
+#bar, #barbackground{
+position:absolute;
+left:0;
+top:0;
+background-color:#214A88;
+}
+
+#barbackground{
+background-color:#000000;
+}
+
+-->
+</style>
+<script language="JavaScript1.2">
+//1) Set the duration for the progress bar to complete loading (in seconds)
+var duration=3
+//2) Set post action to carry out inside function below:
+function postaction(){
+//Example action could be to navigate to a URL, like following:
+//window.location="http://www.somesite.com"
+}
+
+///END Editing//
+var clipright=0
+var widthIE=0
+var widthNS=0
+
+function initializebar(){
+if (document.all){
+baranchor.style.visibility="visible"
+widthIE=bar.style.pixelWidth
+startIE=setInterval("increaseIE()",50)
+}
+if (document.layers){
+widthNS=document.baranchorNS.document.barbackgroundNS.clip.width
+document.baranchorNS.document.barNS.clip.right=0
+document.baranchorNS.visibility="show"
+
+startNS=setInterval("increaseNS()",50)
+}
+}
+
+function increaseIE(){
+bar.style.clip="rect(0 "+clipright+" auto 0)"
+window.status="Loading..."
+if (clipright<widthIE)
+clipright=clipright+(widthIE/(duration*20))
+else{
+window.status=''
+clearInterval(startIE)
+postaction()
+}
+}
+
+function increaseNS(){
+if (clipright<202){
+window.status="Loading..."
+document.baranchorNS.document.barNS.clip.right=clipright
+clipright=clipright+(widthNS/(duration*20))
+}
+else{
+window.status=''
+clearInterval(startNS)
+postaction()
+}
+}
+
+window.onload=initializebar
+</script>
+<script LANGUAGE="JavaScript">
+var start=new Date();
+	start=Date.parse(start)/1000;
+	var counts=3;
+	function CountDown(){
+		var now=new Date();
+		now=Date.parse(now)/1000;
+		var x=parseInt(counts-(now-start),10);
+		if(document.form1){document.form1.clock.value = x;}
+		if(x>0){
+			timerID=setTimeout("CountDown()", 100)
+		}else{
+			location.href="INTRO.HTM"
+		}
+	}
+//  End -->
+</script>
+<script LANGUAGE="JavaScript">
+<!--
+window.setTimeout('CountDown()',100);
+-->
+</script>
+<title>MOTHER EARTH NEWS - Articles from Issues 1 thru 60</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link href="../articles.css" rel="stylesheet" type="text/css">
+</head>
+<script LANGUAGE="JavaScript">
+var ran = Math.round(Math.random() * 899999) + 100000;
+</script>
+<body bgcolor="#214A88" text="#000000">
+<table width="100%" border="0" cellspacing="0" cellpadding="0" height="100%">
+  <tr>
+    <td align="center" valign="middle"> 
+      <table width="525" border="3" cellspacing="0" cellpadding="25" align="center" bgcolor="#FFFFCC" bordercolor="#660000">
+        <tr> 
+          <td valign="middle" align="center"> <img id="flox" src="PICS_GEN/MEN_BAN5.gif" width=500 height=75
+ style="-moz-opacity:10%;filter:alpha(opacity=10)"> 
+            <script>
+value=0
+var plus=1
+var minus=0
+
+function IE(){
+if (value<80&&plus)
+value+=5
+else{
+plus=0
+minus=1
+}
+
+if (value>30&&minus)
+value-=5
+else{
+plus=1
+minus=0
+}
+
+document.getElementById("flox").filters[0].opacity=value
+}
+
+
+function MOZ()
+{
+if (value<80&&plus)
+value+=5
+else{
+plus=0
+minus=1
+}
+
+if (value>30&&minus)
+value-=5
+else{
+plus=1
+minus=0
+}
+
+document.getElementById("flox").style.MozOpacity=value+"%"
+}
+
+if (window.sidebar)
+{
+setInterval("MOZ()",200)
+}
+
+if (document.all)
+{
+setInterval("IE()",200)
+}
+</script><br>
+<script language="JavaScript1.2">
+if (document.all){
+document.write('<div id="baranchor" style="position:relative;width:200px;height:20px;visibility:hidden;">')
+document.write('<div id="barbackground" style="width:200px;height:20px;z-index:9"></div>')
+document.write('<div id="bar" style="width:200px;height:20px;z-index:10"></div>')
+document.write('</div>')
+}
+
+</script>
+<ilayer name="baranchorNS" visibility="hide" width=200 height=20>
+<layer name="barbackgroundNS" bgcolor=black width=200 height=20 z-index=10 left=0 top=0></layer>
+<layer name="barNS" bgcolor=blue width=200 height=20 z-index=11 left=0 top=0></layer>
+</ilayer><br>
+            <font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#666666">LOADING...</font> 
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+</body>
+</html>
